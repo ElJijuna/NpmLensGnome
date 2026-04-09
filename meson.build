@@ -11,3 +11,4 @@ dependency('libadwaita-1')
 dependency('webkitgtk-6.0')
 
 subdir('data')
+subdir('src')
