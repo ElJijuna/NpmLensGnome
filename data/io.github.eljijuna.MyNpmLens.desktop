@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=MyNpmLens
+Comment=NPM package explorer
+Exec=mynpmlens
+Icon=io.github.eljijuna.MyNpmLens
+Terminal=false
+Type=Application
+Categories=Development;
